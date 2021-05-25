@@ -1,0 +1,2 @@
+# AutoConnectSchoolNet
+用于北邮无人值守服务器自动用户认证
